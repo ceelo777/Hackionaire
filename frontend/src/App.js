@@ -11,7 +11,7 @@ import './App.css';
 function App() {
   return (    
     <Router>
-      <div>        
+      <div className='app-container'>
         <div className='nav-container'>
           <div className="covid-times">
             The COVID Times

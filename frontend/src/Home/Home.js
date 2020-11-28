@@ -1,4 +1,3 @@
-import HomeBG from '../assets/img/homebg.jpg';
 import React from 'react';
 import classes from './Home.css';
 import ReactDOM, { render } from 'react-dom';
@@ -6,8 +5,12 @@ import ReactDOM, { render } from 'react-dom';
 class Home extends React.Component {
     render() {
         return (
-            <div>
-                <img src={HomeBG}></img>
+            <div className="home-container">
+                <div className="play-button">
+                    <div>PLAY</div>
+                    <div>LEARN</div>
+                    <div>SURVIVE</div>
+                </div>
             </div>
         );
     }
