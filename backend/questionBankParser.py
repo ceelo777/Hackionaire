@@ -20,6 +20,7 @@ def parseQuestions():
         optionC = data[eachQuestion]["optionC"]
         optionD = data[eachQuestion]["optionD"]
         answer = data[eachQuestion]["answer"]
+        trivia = data[eachQuestion]["trivia"]
 
         newQuestion = Question(question, optionA, optionB, optionC, optionD, answer)
         session.add(newQuestion)

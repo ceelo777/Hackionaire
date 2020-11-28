@@ -31,7 +31,8 @@ def sendQuestions():
             'optionB': Question.optionB,
             'optionC': Question.optionC,
             'optionD': Question.optionD,
-            'answer': Question.answer
+            'answer': Question.answer,
+            'trivia': Question.trivia
         })
     
     return jsonify(finalQuestionList), 200

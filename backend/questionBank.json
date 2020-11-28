@@ -5,7 +5,8 @@
         "optionB" : "< Enter option B here >",
         "optionC" : "< Enter option C here >",
         "optionD": "< Enter option D here >",
-        "answer": "< Enter answer choice here >"
+        "answer": "< Enter answer choice here >",
+        "trivia": "< Enter trivia here >"
     },
     "question2": {
         "question" : "< Enter another question here >",
@@ -13,6 +14,7 @@
         "optionB" : "< Enter another option B here >",
         "optionC" : "< Enter another option C here >",
         "optionD": "< Enter another option D here >",
-        "answer": "< Enter another answer choice here >"
+        "answer": "< Enter another answer choice here >",
+        "trivia": "< Enter another trivia here >"
     }
 }
