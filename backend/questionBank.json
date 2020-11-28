@@ -1,0 +1,366 @@
+{
+    "question 1": {
+        "question" : "How is COVID-19 passed on ? ",
+        "optionA" : "Through droplets that come from your mouth and nose when you cough or breathe out",
+        "optionB" : "In sexual fluids, including semen, vaginal fluids or anal mucous",
+        "optionC" : "By drinking unclean water",
+        "optionD" : "All of the above",
+        "answer": "optionA",
+        "trivia": "Answer: When a person with COVID-19 coughs, breathes out or sneezes, droplets come out from their nose and mouth which can contain the virus. These can be breathed in by people who are nearby or land on surfaces which other people can then touch. Regularly washing your hands and keeping your distance from others is the best way to prevent COVID-19. "
+    },
+    
+    "question 2": {
+        "question" : "What are the common symptoms of COVID-19? ",
+        "optionA" : "A new and continuous cough",
+        "optionB" : "Fever",
+        "optionC" : "Tiredness",
+        "optionD": "All of the above",
+        "answer": "optionD",
+        "trivia": "COVID-19 is usually marked by a new and continuous cough, but some people get other symptoms too including tiredness, a fever and flu-like symptoms including headaches, runny nose and a sore throat. If you’re finding it hard to breathe or your symptoms don’t improve after 7 days, call your local health service straight away. "
+    },
+    "question 3": {
+        "question" : "Can you always tell if someone has COVID-19? ",
+        "optionA" : "Yes – it will be obvious, a person with COVID-19 coughs a lot",
+        "optionB" : "No – Not everyone with COVID 19 has symptoms",
+        "optionC" : "Yes – you can tell just by where a person comes from, their race and ethnicity",
+        "optionD" : "NONE OF THESE",
+        "answer": "optionB",
+        "trivia": "The virus can be in someone’s body for up to 14 days before they get symptoms, and some people will have such a mild case of COVID-19 that they might not notice anything is wrong. That’s why it’s important that everyone follows their government’s advice even if they feel healthy."
+    },
+    "question 4": {
+        "question" : " Can washing your hands protect you from COVID-19? ",
+        "optionA" : "Yes – but only if you use a strong bleach",
+        "optionB" : "Yes – normal soap and water or hand sanitizer is enough",
+        "optionC" : "No – Washing your hands doesn’t stop COVID-19",
+        "optionD" : "NONE OF THESE",
+        "answer": "optionB",
+        "trivia": " Washing your hands regularly is one of the best ways to avoid getting or passing on COVID-19. It’s important to keep washing your hands throughout the day especially before and after going out. To wash your hands properly you need to get every spot. Make sure you wash them for at least 40 seconds if you are using soap and water, and for at least 20 seconds if you’re using hand sanitizer."
+    },
+    "question 5": {
+        "question" : "Which of the following people is COVID-19 most dangerous for? (select all correct responses)",
+        "optionA" : "Children",
+        "optionB" : "Older people – especially those aged 70 and above",
+        "optionC" : "People with certain underlying health conditions",
+        "optionD": "European people",
+        "answer": "optionC",
+        "trivia": "Most people’s immune systems will be able to fight the virus and so COVID-19 won't make them seriously ill, however it can be more dangerous for older people and people with existing health problems - including lung problems, heart problems, diabetes and others. People with a reduced immune system can also be more at risk, this includes people having chemotherapy for cancer or those with untreated HIV.COVID-19 is normally not very serious in children and doesn’t affect people differently depending on where they live in the world or their race. "
+    },
+    "question 6": {
+        "question" : "Are people living with HIV always more at risk? ",
+        "optionA" : "Yes – people with HIV have weaker immune systems",
+        "optionB" : "No – people who adhere to antiretroviral treatment (ART) and have a high CD4 count aren’t more at risk",
+        "optionC" : "Maybe - There is about 80% probability",
+        "optionD" : "Yes - people with HIV automatically get infected by COVID 19",
+        "answer": "optionB",
+        "trivia": "There’s no evidence that people living with HIV who are adhering to effective antiretroviral treatment (ART), have high CD4 counts and are otherwise well, are more likely to get COVID-19. There’s also no evidence that these people are more likely to become seriously ill if they do get the COVID-19.The people who need to be more careful are those with a low CD4 count (<200 copies/cell), a high viral load, or those who have had a recent opportunistic infection. If this applies to you speak to your health care worker for more advice."
+    },
+    "question 7": {
+        "question" : "When should fabric face masks be worn? ",
+        "optionA" : "On public transport",
+        "optionB" : "In confined or crowded spaces",
+        "optionC" : "In small shops",
+        "optionD": "All of the above",
+        "answer": "optionD",
+        "trivia": ": The World Health Organisation now recommends using face masks when you are not able to stay at least 1 meter away from others. This includes when you’re on public transport, inside shops, or any other time when you’re in a confined or crowded space."
+    },
+    "question 8": {
+        "question" : "Can COVID-19 be cured?",
+        "optionA" : "Yes – Hot drinks can cure COVID-19",
+        "optionB" : "No – COVID-19 is a death sentence",
+        "optionC" : "No - but most people can cure themselves.",
+        "optionD": "Yes - COVID-19 can be cured by certain drugs and antidotes",
+        "answer": "optionC",
+        "trivia": "Most people who get COVID-19 will recover by themselves, normally within 14 days. Some people who get more seriously ill with COVID-19 may need hospital care to help them breathe. For a small percentage of people COVID-19 can be fatal. If your symptoms don’t get better after 7 days, you are finding it hard to cope, or if at any point you have difficulty breathing you should call your local health service straight away."
+    },
+    "question 9": {
+        "question" : "Which of the following is an example of physical distancing?",
+        "optionA" : "You stop going to crowded places and visiting other people’s houses",
+        "optionB" : "You stop talking to the people you live with",
+        "optionC" : "You stop speaking to your friends on the phone",
+        "optionD": "You avoid any form of interaction",
+        "answer": "optionA",
+        "trivia": "To slow down the spread of COVID-19 people are being asked to reduce the amount of time that they spend with other people and the number of people they meet in a day. The exact advice on how to do this will vary depending on where in the world you live. In some places, people have been asked to stop shaking hands and avoid large gatherings."
+    },
+    "question 10": {
+        "question" : "How can people living with HIV protect themselves from COVID-19?",
+        "optionA" : "Wash their hands regularly and follow the physical distancing advice",
+        "optionB" : "Keep taking their antiretroviral treatment",
+        "optionC" : "Exercise regularly, eat well and look after their mental health",
+        "optionD": "All of the above",
+        "answer": "optionD",
+        "trivia": "People living with HIV should follow the general advice for example washing their hands regularly. It’s also important to keep taking antiretroviral treatment as prescribed. Exercising, eating healthily and getting good sleep are ways to boost your immune system so that you stay healthy.COVID-19 can also make lots of people feel anxious, so it’s important to look after your mental health too. Keep in touch with your friends and family online or over the phone, do things that you enjoy and talk how you are feeling. "
+    },
+
+    "question 11": {
+        "question" : "How many countries, areas or territories are suffering from novel coronavirus outbreak in the World?",
+        "optionA" : "More than 50",
+        "optionB" : "More than 100",
+        "optionC" : "More than 150",
+        "optionD": "More than 200",
+        "answer": "optionD",
+        "trivia": "According to WHO, around 216 countries, areas or territories are suffering from novel coronavirus or COVID-19 outbreak in the world till 11 June, 2020"
+    },
+    "question 12": {
+        "question" : "Thailand announced that it has proceeded to test its novel coronavirus vaccine on which creature?",
+        "optionA" : "Monkeys",
+        "optionB" : "Lizards",
+        "optionC" : "Hens",
+        "optionD": "Kites",
+        "answer": "optionA",
+        "trivia": "After seeing positive results on mice now Thailand announced that it has proceeded to test its novel coronavirus vaccine on monkeys. The vaccine uses messenger RNA (mRNA) technology to weaken the strain of the virus and produce antigens to fight with the virus from the root."
+    },
+    "question 13": {
+        "question" : "In a study, which cells are found in COVID-19 patients 'bode well' for long term immunity?",
+        "optionA" : "P-cell",
+        "optionB" : "D-Cell",
+        "optionC" : "T-Cell",
+        "optionD": "Endothelial Cells",
+        "answer": "optionC",
+        "trivia": "T cells are known as immune warriors help us fight some viruses, but their importance for battling SARS-CoV-2, the virus that causes COVID-19, has been unclear. Research is going on and maybe it can be fruitful"
+    },
+    "question 14": {
+        "question" : "Name the vaccine that is jointly developed by the German company BioNTech and US pharma giant Pfizer for COVID-19?",
+        "optionA" : "BNT162",
+        "optionB" : "PICOVACC",
+        "optionC" : "Both A and B",
+        "optionD": "Neither A nor B",
+        "answer": "optionA",
+        "trivia": "BNT162 is jointly developed by the German company BioNTech and US pharma giant Pfizer. It is a group of four potential vaccines based on the messenger RNA or mRNA, concept. On the other hand, PICOVACC is an inactivated vaccine developed by the private biopharma company Sinovac. These vaccines are in clinical trial phases."
+    },
+    "question 15": {
+        "question" : "Name a clinical trial in which blood is transfused from recovered COVID-19 patients to a coronavirus patient who is in critical condition?",
+        "optionA" : "Plasma Therapy",
+        "optionB" : "Solidarity",
+        "optionC" : "Remdesivir",
+        "optionD": "Hydroxychloroquine",
+        "answer": "optionA",
+        "trivia": "Plasma Therapy or Convalescent Plasma Therapy is a clinical trial in which blood is transfused from recovered COVID-19 patients to a coronavirus patient who is in critical condition."
+    },
+    "question 16": {
+        "question" : "What happens to a person suffering from COVID-19?",
+        "optionA" : "Around 80% of the people will require no treatment as such and will recover on their own",
+        "optionB" : "Around <20% or a small proportion may need hospitalisation",
+        "optionC" : " A very small proportion basically suffering from chronic illness may need admission in an Intensive Care Unit (ICU)",
+        "optionD": "All the above are correct",
+        "answer": "optionD",
+        "trivia": "A person who develops COVID-19: Majority of the people (80%) does not require treatment and will recover on their own, small proportion (<20%) may need hospitalisation and a very small proportion who are underlying chronic illness may need to admit in an ICU"
+    },
+    "question 17": {
+        "question" : "What is Coronavirus?",
+        "optionA" : "It is a large family of viruses.",
+        "optionB" : "It belongs to the family of Nidovirus",
+        "optionC" : "Both A and B are correct",
+        "optionD": "Only A is correct",
+        "answer": "optionC",
+        "trivia": "Coronaviruses are a large family of viruses and belong to the Nidovirus family or Nidovirales order, which includes Coronaviridae, Arteriviridae, and Roniviridae families"
+    },
+    "question 18": {
+        "question" : "Which of the following diseases are related to coronavirus?",
+        "optionA" : "MERS",
+        "optionB" : "SARS",
+        "optionC" : "Both A and B",
+        "optionD": "Neither A and B",
+        "answer": "optionC",
+        "trivia": "18.Coronavirus may cause illness from the common cold to more other serious diseases like Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV)."
+    },
+    "question 19": {
+        "question" : "What are the precautions that need to be taken to protect from the coronavirus?",
+        "optionA" : "Cover your nose and mouth when sneezing.",
+        "optionB" : "Add more garlic into your diet.",
+        "optionC" : "Visit your doctor for antibiotics treatment",
+        "optionD": "Wash your hands after every hour.",
+        "answer": "optionA",
+        "trivia": "According to WHO, a person can take precautions by covering the nose and mouth while sneezing via tissue or an elbow. Then, immediately throw the tissue into a closed dustbin."
+    },
+    "question 20": {
+        "question" : "What does the flattening curve indicate?",
+        "optionA" : "It’s an axiom that means follow the evidence, rather than trust appearances, such as the earth appearing flat when it is actually round",
+        "optionB" : "It means to slow the spread of a virus to reduce the peak number of cases and related demands on hospitals and infrastructure.",
+        "optionC" : "It means to arrive at the point in the pandemic when the number of daily deaths due to COVID-19 are flat.",
+        "optionD": "None of the above",
+        "answer": "optionB",
+        "trivia": "Social distancing interventions are in place to help flatten the curve for the COVID-19 pandemic"
+    },
+    "question 21": {
+        "question" : "What is herd immunity?",
+        "optionA" : "A situation where you purposefully get diseases from animals in order to protect yourself from future disease.",
+        "optionB" : "A situation in which a sufficient proportion of a population is immune to an infectious disease (through vaccination and/or prior illness) to make its spread from person to person unlikely.",
+        "optionC" : "When a sufficient number of animals are immune from disease that they are less likely to transmit it to humans",
+        "optionD": "None of the above",
+        "answer": "optionB",
+        "trivia": "The United States has not yet reached herd immunity for COVID-19 since a sufficient proportion of the population has not been infected and there is not a vaccine yet available."
+    },
+    "question 22": {
+        "question" : "How is the Wuhan coronavirus transmitted?",
+        "optionA" : "From pets to people",
+        "optionB" : "Eating bat soup",
+        "optionC" : "From person-to-person",
+        "optionD": "From eating raw meat",
+        "answer": "optionC",
+        "trivia": "The virus is transmitted from person-to-person contact with an infected patient, frequently through respiratory droplets when an infected person sneezes or coughs. There is no evidence the Wuhan coronavirus can spread from pets to people, and, despite a viral video claiming it can come from eating bat soup, this is not the case."
+    },
+    "question 23": {
+        "question" : " How long is average the incubation period for Wuhan coronavirus?",
+        "optionA" : "12-24 hours",
+        "optionB" : "5-6 days",
+        "optionC" : "3-4 weeks",
+        "optionD": "1 month",
+        "answer": "optionB",
+        "trivia": "The average incubation period (the time between infection and the onset of symptoms) for the virus is estimated to be about 5-6 days but the entire incubation period ranges from 1 to 12.5 days and may be as long as 14 days."
+    },
+    "question 24": {
+        "question" : "A high temperature and a continuous cough have been official coronavirus symptoms in the UK since the start of the pandemic. But which of these did the government add to the list of early symptoms that people should look for?",
+        "optionA" : "A sore throat",
+        "optionB" : "A rash on your skin",
+        "optionC" : "Losing your sense of smell or taste",
+        "optionD": "None of the above",
+        "answer": "optionC",
+        "trivia": " It’s a losing your sense of smell or taste – or sometimes just a noticeable change in smell or taste. These are the three symptoms the government lists as ones which could require you to self-isolate: a high-temperature, a new persistent cough and the loss of smell or taste. Difficulty breathing, extreme tiredness, stomach pain and diarrhoea are among the other symptoms that have been associated with the virus, but these are usually present along with at least one of the main three symptoms."
+    },
+    "question 25": {
+        "question" : "Washing your hands for 20 seconds is one of the most important ways of avoiding infection. But what part of the process is it that destroys the virus?",
+        "optionA" : "Water",
+        "optionB" : "Soap",
+        "optionC" : "Friction",
+        "optionD": "Heat due to friction",
+        "answer": "optionB",
+        "trivia": "The main factor is the soap. The soap molecules dissolve the wall that surrounds and protects the virus. If you wash your hands with soap for a good 20 seconds the virus will literally fall apart on your skin and no longer be a danger"
+    },
+    "question 26": {
+        "question" : "People are advised to social distance by staying two metres apart. But which kitchen appliance did the government use to help people understand how far two metres is?",
+        "optionA" : "Cooker",
+        "optionB" : "Fridge",
+        "optionC" : "Microwave",
+        "optionD": "Oven",
+        "answer": "optionB",
+        "trivia": "The government put out advice saying you could measure two metres by imagining the width of three fridges between you and the next person. It wasn’t seen as particularly useful advice and was widely mocked on social media. Other two metre distance comparisons from the government were: a bed; two benches or four chairs."
+    },
+    "question 27": {
+        "question" : "People are encouraged to meet up outside wherever possible, but which of these do we know is a major factor in preventing the virus from spreading as easily outside?",
+        "optionA" : "The pollution",
+        "optionB" : "The breeze",
+        "optionC" : "Oxygen levels",
+        "optionD": "None of these",
+        "answer": "optionB",
+        "trivia": "It’s the breeze. Scientists are still studying all the reasons why being with people outside is so much safer than being in an enclosed space, but even the slightest breeze helps disperse the virus, exposing you to much lower levels than you would meeting inside. Some studies have also found direct sunlight reduces the amount of time the virus will remain infectious, which is another benefit of being outside."
+    },
+    "question 28": {
+        "question" : "The UK is currently at Covid-19 alert level 3 – but can you remember what this means?",
+        "optionA" : "Virus transmission is high",
+        "optionB" : "Virus transmission is low",
+        "optionC" : "Virus is in general circulation",
+        "optionD": "None of the above",
+        "answer": "optionC",
+        "trivia": "It means the virus is in general circulation. At level three people are expected to continue social distancing but the rules can be slowly relaxed. This is why shops and restaurants have been allowed to reopen. Previously the UK was at level 4."
+    },
+    "question 29": {
+        "question" : "Healthy people should practice social distancing.",
+        "optionA" : "True",
+        "optionB" : "False",
+        "optionC" : "Who cares?",
+        "optionD": "Maybe",
+        "answer": "optionA",
+        "trivia": "Healthy people everywhere should practice social distancing to help flatten the curve."
+    },
+    "question 30": {
+        "question" : "What percentage alcohol in hand rubs and disinfectants is needed to kill the coronavirus disease (COVID-19)?",
+        "optionA" : "30%",
+        "optionB" : "40%",
+        "optionC" : "50%",
+        "optionD": "60%",
+        "answer": "optionD",
+        "trivia": "Hand sanitizer or alcohol rub to clean surfaces should contain at least 60% alcohol to be effective."
+    },
+
+    "question 31": {
+        "question" : "Which activity is most likely to expose you to the novelcoronavirus?",
+        "optionA" : "Picking groceries",
+        "optionB" : "Visiting a salon",
+        "optionC" : "Attending a family lunch",
+        "optionD": "Being out there in the crowd",
+        "answer": "optionD",
+        "trivia": "Avoid any public gatherings."
+    },
+    "question 32": {
+        "question" : "If you can hold your breath for 10 seconds can you be affected COVID-19?",
+        "optionA" : "Ofcourse you can",
+        "optionB" : "No you can't ",
+        "optionC" : "Maybe",
+        "optionD": "Maybe not",
+        "answer": "optionA",
+        "trivia": "Most young patients with coronavirus will be able to hold their breath for much longer than 10 seconds. Many elderly people without the virus can’t hold their breath for 10 seconds. Keep in mind there have also been some asymptomatic cases, meaning people who have COVID-19 but don’t show any symptoms."
+    },
+    "question 33": {
+        "question" : "During a shelter-in-place order, can my kids be with other kids in small groups?",
+        "optionA" : "Yes",
+        "optionB" : "No",
+        "optionC" : "Maybe",
+        "optionD": "Who cares?",
+        "answer": "optionB",
+        "trivia": "Follow the guidelines of your local or state authorities. If your area has a stay-at-home or shelter-in-place order in effect, you should only leave home for reasons necessary to your health, safety or welfare."
+    },
+    "question 34": {
+        "question" : "Once infected with the coronavirus, how long can it take to show symptoms?",
+        "optionA" : "upto a day",
+        "optionB" : "upto 18 hours",
+        "optionC" : "upto half a day",
+        "optionD": "upto a week",
+        "answer": "optionD",
+        "trivia": "After exposure to the virus, symptoms have shown up as soon as two days to as long as 14 days later. The average incubation period is five days. The “incubation period” refers to the time between catching the virus and beginning to have symptoms of the illness."
+    },
+    "question 35": {
+        "question" : "Patients with COVID-19 can't take anti-inflammatory medicine like",
+        "optionA" : "ibuprofen",
+        "optionB" : "aspirin",
+        "optionC" : "mupirocin",
+        "optionD": "naproxen",
+        "answer": "optionD",
+        "trivia": "Mupirocin isn't an anti-inflammatory medicine. It's commonly used as an antibiotic in ointments"
+    },
+    "question 36": {
+        "question" : "One infected person infects how many other people",
+        "optionA" : "2",
+        "optionB" : "4",
+        "optionC" : "3",
+        "optionD": "2.5",
+        "answer": "optionD",
+        "trivia": "The current estimate is that one infected person infects about 2.5 others; they in turn infect 2.5 others each. So very quickly, that one person results in 10 cases in the community – and that continues. Estimates suggest that if 100 people become infected, five will need to be hospitalized."
+    },
+    "question 37": {
+        "question" : " Which clause of the Occupational Safety and Health (OSH) Act of 1970 requires employers to furnish to each worker “employment and a place of employment, which are free from recognized hazards that are causing or are likely to cause death or serious physical harm.”",
+        "optionA" : "Personal protective equipment.",
+        "optionB" : "Bloodborne pathogens",
+        "optionC" : "General duty",
+        "optionD": "Communicable diseases",
+        "answer": "optionC",
+        "trivia": "The answer is General Duty."
+    },
+    "question 38": {
+        "question" : "People who show no signs of a given disease are",
+        "optionA" : "asymptomatic",
+        "optionB" : "unsymptomatic",
+        "optionC" : "unsympathetic",
+        "optionD": "non-symptomatic",
+        "answer": "optionA",
+        "trivia": "People who show no signs of a given disease are called asymptomatic"
+    },
+    "question 39": {
+        "question" : "Which is most widespread?",
+        "optionA" : "an outbreak",
+        "optionB" : "an epidemic",
+        "optionC" : "a pandemic",
+        "optionD": "Both optionB and optionC",
+        "answer": "optionC",
+        "trivia": "Pandemic is the most widespread."
+    },
+    "question 40": {
+        "question" : "The word quarantine comes from",
+        "optionA" : "the number 40",
+        "optionB" : "the term guarantee",
+        "optionC" : "the fraction quarters",
+        "optionD": "Partially from both option A and option B",
+        "answer": "optionA",
+        "trivia": "The word quarantine comes from the number 40. Strange isn't it?"
+    }
+
+}

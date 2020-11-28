@@ -12,13 +12,15 @@ class Question(Base):
     optionC = Column(String)
     optionD = Column(String)
     answer = Column(String)
+    trivia = Column(String)
 
-    def __init__(self, question, optionA, optionB, optionC, optionD, answer):
+    def __init__(self, question, optionA, optionB, optionC, optionD, answer, trivia:
         self.question = question
         self.optionA = optionA
         self.optionB = optionB
         self.optionC = optionC
         self.optionD = optionD
         self.answer = answer
+        self.trivia = trivia
 
 

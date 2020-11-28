@@ -31,10 +31,11 @@ def sendQuestions():
             'optionB': Question.optionB,
             'optionC': Question.optionC,
             'optionD': Question.optionD,
-            'answer': Question.answer
+            'answer': Question.answer,
+            'trivia': Question.trivia
         })
     
-    return jsonify(finalQuestionList)
+    return jsonify(finalQuestionList), 200
 
 @app.route('/api/quiz/update/points', methods=['POST'])
 def updatePoints():
