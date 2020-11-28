@@ -34,7 +34,7 @@ def sendQuestions():
             'answer': Question.answer
         })
     
-    return jsonify(finalQuestionList)
+    return jsonify(finalQuestionList), 200
 
 @app.route('/api/quiz/update/points', methods=['POST'])
 def updatePoints():
