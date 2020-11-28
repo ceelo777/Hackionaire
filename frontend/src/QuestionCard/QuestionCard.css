@@ -1,0 +1,16 @@
+.card-container {
+    padding: 2rem;
+    width: 50vw;
+    border-radius: 2rem;        
+}
+
+.card-question {
+    margin: 2rem;
+
+    font-size: 2rem;
+}
+
+.card-answer {
+    margin: 2rem;
+    font-size: 2rem;
+}
