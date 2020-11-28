@@ -1,0 +1,24 @@
+html, body, #app, #app>div {
+    height: 100%;
+    margin: 0px;    
+}
+
+.home-container {
+    height: 100%;
+    background-image: url('../assets/img/homebg.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;    
+    position: relative;
+}
+
+.play-button {
+    display: flex;    
+    color: lightgray;
+    font-size: 3rem;
+    opacity: 50%;
+    font-weight: 400;
+    flex-direction: column;      
+    position: absolute;
+    top: 20vw;
+    right: 15vw;
+}
