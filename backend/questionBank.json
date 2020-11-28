@@ -1,0 +1,13 @@
+{
+    "question1": {
+        "question" : "< Enter question here >",
+        "optionA" : "< Enter option A here >",
+        "optionB" : "< Enter option B here >",
+        "optionC" : "< Enter option C here >",
+        "optionD": "< Enter option D here >",
+        "answer": "< Enter answer choice here >"
+    },
+    "question2": {
+        
+    }
+}
