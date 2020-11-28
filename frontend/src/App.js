@@ -6,6 +6,7 @@ import {
   Link
 } from 'react-router-dom';
 import Home from './Home/Home';
+import Game from './Game/Game';
 import './App.css';
 
 function App() {
@@ -25,8 +26,11 @@ function App() {
         </div>
 
         <Switch>
-          <Route path="/">
+          <Route exact path="/">
             <Home />            
+          </Route>
+          <Route exact path="/Game">
+            <Game />
           </Route>
         </Switch>
       </div>
