@@ -1,7 +1,12 @@
 **Create a Virtual Environment**
 
-Navigate into the `backend` directory and type: `python3 -m venv venv` <br>
-Followed by: `. venv/bin/activate`
+Navigate into the `backend` directory and type: 
+
+`python3 -m venv venv` <br>
+
+Followed by: 
+
+`. venv/bin/activate`
 
 **Install Third-Party Libraries**
 
