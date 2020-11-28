@@ -2,7 +2,7 @@
 
 Navigate into the `backend` directory and type:
 
-`python3 -m venv venv`
+`python3 -m venv venv` <br>
 `. venv/bin/activate`
 
 **Install Third-Party Libraries**
