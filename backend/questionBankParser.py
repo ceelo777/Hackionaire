@@ -22,7 +22,7 @@ def parseQuestions():
         answer = data[eachQuestion]["answer"]
         trivia = data[eachQuestion]["trivia"]
 
-        newQuestion = Question(question, optionA, optionB, optionC, optionD, answer)
+        newQuestion = Question(question, optionA, optionB, optionC, optionD, answer, trivia)
         session.add(newQuestion)
 
     session.commit()

@@ -1,3 +1,6 @@
 venv/
 __pycache__/
 backend/hackionaire-db-ca.crt
+backend/questionBank.json
+backend/questionBankParser.py
+backend/.flaskenv
