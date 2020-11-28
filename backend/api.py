@@ -25,15 +25,19 @@ def sendQuestions():
 
     finalQuestionList = []
     for eachQuestion in chosenQuestions:
+        
         finalQuestionList.append({
-            'question': Question.question,
-            'optionA': Question.optionA,
-            'optionB': Question.optionB,
-            'optionC': Question.optionC,
-            'optionD': Question.optionD,
-            'answer': Question.answer,
-            'trivia': Question.trivia
+            'id': eachQuestion.id,
+            'question': eachQuestion.question,
+            'optionA': eachQuestion.optionA,
+            'optionB': eachQuestion.optionB,
+            'optionC': eachQuestion.optionC,
+            'optionD': eachQuestion.optionD,
+            'answer': eachQuestion.answer,
+            'trivia': eachQuestion.trivia
         })
+
+    
     
     return jsonify(finalQuestionList), 200
 
