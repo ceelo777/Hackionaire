@@ -278,8 +278,8 @@
         "optionB" : "Visiting a salon",
         "optionC" : "Attending a family lunch",
         "optionD": "Being out there in the crowd",
-        "answer": "< Enter answer choice here >",
-        "trivia": "< Enter trivia here >"
+        "answer": "optionD",
+        "trivia": "Avoid any public gatherings."
     },
     "question 32": {
         "question" : "If you can hold your breath for 10 seconds can you be affected COVID-19?",
