@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './Home.css';
+import './Home.css';
 import ReactDOM, { render } from 'react-dom';
 
 class Home extends React.Component {

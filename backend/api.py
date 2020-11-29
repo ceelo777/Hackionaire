@@ -15,7 +15,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return 'Hello, world!'
+    return '<h1>Welcome to Hackionaire API</h1>'
 
 @app.route('/api/quiz/questions', methods=['GET'])
 def sendQuestions():

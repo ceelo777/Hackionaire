@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import classes from "./Game.css";
+import "./Game.css";
 import ReactDOM, { render } from "react-dom";
 
 export default function Game() {
