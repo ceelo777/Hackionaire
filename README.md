@@ -1,7 +1,8 @@
 # Hackionaire
+![](frontend/public/mask.png)
 
 # COVID 19 TRACKER
-  This application tracks the COVID 19 cases in different parts of the world. It also provides a quiz to gauge your knowledge about the pandemic and add valuable insights. 
+  This application tracks the COVID 19 cases in different parts of the world. It also provides a quiz to gauge your knowledge about the pandemic and add valuable insights.You can claim exclusive masks based on your performance in the quiz.
 
 
   ![](frontend/public/covid19.png)
