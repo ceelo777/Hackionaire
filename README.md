@@ -1,4 +1,4 @@
-# Hackionaire
+# The COVID Times
 ![](frontend/public/mask.png)
 
 # COVID 19 TRACKER
