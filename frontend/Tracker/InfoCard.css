@@ -1,0 +1,33 @@
+.infoCard {
+    flex: 1;
+  }
+  
+  .infoCard:not(:last-child) {
+    margin-right: 15px;
+  }
+  
+  .infoBox--selected {
+    border-top: 10px solid rgb(39, 194, 8) ;
+  }
+  
+  .infoCard--red {
+    border-top: 10px solid  red;
+
+  }
+  
+  .infoCard_title{
+      font-weight: 400;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+  .infoCard__cases--green {
+    color: lightgreen;
+  }
+  
+  .infoCard_cases {
+    color: #cc1034;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+  }
+  

@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+}
+
+body{
+  background: #757F9A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #D7DDE8, #757F9A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #D7DDE8, #757F9A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+h1{
+  font-size:22px;
+  color: rgb(45, 148, 218);
+
+}
+
+.app_header{
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  justify-content: space-between;
+}
+
+.app_info{
+  display: flex;
+  justify-content: space-between;
+}
+
+.app{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.app_left{
+  flex: 0.9;
+}
+
+@media (max-width:970px){
+  .app{
+    flex-direction: column;
+  }
+}
