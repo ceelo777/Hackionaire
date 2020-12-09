@@ -7,7 +7,7 @@ from dbModels.Question import Question
 Base.metadata.create_all(engine)
 
 def parseQuestions():
-    with open('questionBank.json', 'r') as read_file:
+    with open('sampleQB.json', 'r') as read_file:
         data = json.load(read_file)
 
     session = Session()
@@ -22,7 +22,7 @@ def parseQuestions():
         answer = data[eachQuestion]["answer"]
         trivia = data[eachQuestion]["trivia"]
 
-        newQuestion = Question(question, optionA, optionB, optionC, optionD, answer)
+        newQuestion = Question(question, optionA, optionB, optionC, optionD, answer, trivia)
         session.add(newQuestion)
 
     session.commit()

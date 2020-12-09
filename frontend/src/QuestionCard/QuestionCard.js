@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './QuestionCard.css';
+import './QuestionCard.css';
 import ReactDOM, { render } from 'react-dom';
 
 class QuestionCard extends React.Component {

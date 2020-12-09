@@ -1,0 +1,30 @@
+.infoCard {
+    flex: 1;
+    cursor: pointer;
+  }
+  
+  .infoCard:not(:last-child) {
+    margin-right: 15px;
+  }
+  
+  .infoCard--selected {
+    border-top: 10px solid rgb(39, 194, 8) ;
+  }
+  
+  .infoCard--red {
+    border-color: red;
+
+  }
+  
+  
+  .infoCard__cases--green {
+    color: lightgreen !important  ;
+  }
+  
+  .infoCard__cases {
+    color: #e42315;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+  }
+  

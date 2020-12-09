@@ -14,7 +14,7 @@ class Question(Base):
     answer = Column(String)
     trivia = Column(String)
 
-    def __init__(self, question, optionA, optionB, optionC, optionD, answer, trivia:
+    def __init__(self, question, optionA, optionB, optionC, optionD, answer, trivia):
         self.question = question
         self.optionA = optionA
         self.optionB = optionB

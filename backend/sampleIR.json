@@ -1,0 +1,30 @@
+{
+    "image1": {
+        "address": "Dope.jpg",
+        "points": 5
+    },
+    "image2": {
+        "address": "Keep_an_Eye.jpg",
+        "points": 5
+    },
+    "image3": {
+        "address": "Shinchan.jpg",
+        "points": 10
+    },
+    "image4": {
+        "address": "Sun.jpg",
+        "points": 10
+    },
+    "image5": {
+        "address": "Super_Mario_Mask.jpg",
+        "points": 15
+    },
+    "image6": {
+        "address": "The_Goofy_Mask.png",
+        "points": 20
+    },
+    "image7": {
+        "address": "The_Jerry_Mask.jpg",
+        "points": 30
+    }
+}
